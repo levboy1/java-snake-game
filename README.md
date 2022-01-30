@@ -12,7 +12,7 @@ Project goal: developing a retro snake game and getting familiar with:
 
 #### Pausing and saving a game
 <img width="380" alt="Game" src="https://user-images.githubusercontent.com/77939189/151709597-ca0c09c5-48ba-4b1c-9e70-d609ccad776c.png"> <img width="384" alt="Pause menu" src="https://user-images.githubusercontent.com/77939189/151709612-fea1bd91-065f-43c2-804a-ba8c8bf69e6c.png">
-<img width="280" alt="Saving a game" src="https://user-images.githubusercontent.com/77939189/151709678-98db6b43-fa9a-4abd-b42d-5aaea3368186.png"> <img width="450" alt="file" src="https://user-images.githubusercontent.com/77939189/151711132-81dfe140-b651-4bca-aadb-0e77f5373a2f.png">
+<img width="320" alt="Saving a game" src="https://user-images.githubusercontent.com/77939189/151709678-98db6b43-fa9a-4abd-b42d-5aaea3368186.png"> <img width="450" alt="file" src="https://user-images.githubusercontent.com/77939189/151711132-81dfe140-b651-4bca-aadb-0e77f5373a2f.png">
 
 
 
