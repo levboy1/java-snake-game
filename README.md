@@ -17,7 +17,7 @@ Project goal: developing a retro snake game and getting familiar with:
 
 
 #### Opening saved game
-<img width="380" alt="Opening saved game" src="https://user-images.githubusercontent.com/77939189/151709705-381faa22-0bb6-438b-8791-8f8fb2f6ab58.png"> <img width="380" alt="Imported game scenario" src="https://user-images.githubusercontent.com/77939189/151709751-1a020228-2266-4223-82a6-7067440c4244.png">
+<img width="400" alt="Opening saved game" src="https://user-images.githubusercontent.com/77939189/151709705-381faa22-0bb6-438b-8791-8f8fb2f6ab58.png"> <img width="350" alt="Imported game scenario" src="https://user-images.githubusercontent.com/77939189/151709751-1a020228-2266-4223-82a6-7067440c4244.png">
 
 ## Known bugs
 - Pause menu exit button is not working
