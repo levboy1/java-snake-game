@@ -2,7 +2,7 @@
 Plain old minimalist snake game written in Java.
 
 ## Summary
-Project goal: developing a retro snake game and getting familiar with:
+Project goal: to develop a retro snake game and get familiar with:
 ### Java: collections, file handling, event listeners; Swing GUI framework; multithreading; 
 
 ## Screenshots
